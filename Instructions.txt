@@ -1,0 +1,6 @@
+cd - (go to home directory)
+mkdir github_repos (create a new folder named github_repos)
+git clone https-path_to_gothub_repo
+cd name_of_repo (go to that repository)
+
+and then ls -la
