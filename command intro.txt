@@ -6,3 +6,4 @@ pwd
 clear
 cd (go to home directory)
 cat <file_name> (to see what is inside that file from terminal)
+dila,a
